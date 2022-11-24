@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"description": "FCC Backend Development and APIs - Managing Packages with npm",
 	"author": "Wuhibe Tamire",
 	"dependencies": {
 		"express": "^4.14.0"
