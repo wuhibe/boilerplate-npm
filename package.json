@@ -4,6 +4,7 @@
 	"description": "FCC Backend Development and APIs - Managing Packages with npm",
 	"keywords": [ "npm", "package.json", "freecodecamp", "Backend", "node" ],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
